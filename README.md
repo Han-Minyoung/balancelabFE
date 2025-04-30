@@ -92,16 +92,12 @@ balancelabFE/
 
 ![alt text](image-1.png)
 
-월간 캘린더
+캘린더
  - 사용자가 식단을 등록했던 날들이 달력에 표시될 수 있도록 구현
  - 월간캘린더 조회 기능 구현
 
-![alt text](image-2.png)
-
 ![Image](https://github.com/user-attachments/assets/7037cacf-9ef5-4f5e-aa48-c97649da6021)
-![Image](https://github.com/user-attachments/assets/c6bb9032-d37d-4231-9d9f-8e752d72c815)
 
-식단분석 페이지
 
 ![Image](https://github.com/user-attachments/assets/d4cfc50e-e155-4f4a-93bf-32cf7ef3d243)
 ![Image](https://github.com/user-attachments/assets/f15d70c5-3c99-4a7b-b7a7-ee6407e5c04e)
@@ -112,6 +108,7 @@ balancelabFE/
     - React를 이용하여 프론트엔드 구현
     - html2canvas와 jspdf를 이용하여 PDF저장 기능 구현
     - 분석한 식단을 그대로 등록할 수 있는 기능 구현
+
 
 ![Image](https://github.com/user-attachments/assets/ee14410b-487d-48c9-be15-f7f5b6047574)
 
@@ -126,3 +123,9 @@ balancelabFE/
   - 사용자가 입력한 챌린지 기간에 도달하거나 목표했던 체중에 도달하면 완료처리
   - 중단 클릭 시 챌린지가 완료되기 전 중단 처리
   - 사용자의 챌린지 기록들을 보여주는 기능 구현
+
+![Image](https://github.com/user-attachments/assets/c6bb9032-d37d-4231-9d9f-8e752d72c815)
+
+MyBalance
+ - 사용자의 최근 7일 영양소를 수치로 보여주는 기능
+ - 주간 영양소 섭취를 차트로 보여주는 기능
